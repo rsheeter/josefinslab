@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="609"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <component base="y"/>
+    <component base="acute" xOffset="198"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjEzIiBwcG0yPSIxNCIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0i
+LTgiIHBwbTE9IjI2IiBwcG0yPSIyNiIvPgogICAg
+PHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0iIiBk
+ZWx0YT0iOCIgcHBtMT0iMTciIHBwbTI9IjE3Ii8+
+CiAgPC90dFByb2dyYW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

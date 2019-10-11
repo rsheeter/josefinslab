@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="601"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guillemotleft" xScale="-0.999939" xOffset="576"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJm
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iMiIgcHBt
+MT0iMjUiIHBwbTI9IjI2Ii8+CiAgICA8dHRjIGNv
+ZGU9ImZkZWx0YWgiIHBvaW50PSIiIGRlbHRhPSIz
+IiBwcG0xPSIxMyIgcHBtMj0iMTQiLz4KICAgIDx0
+dGMgY29kZT0iZmRlbHRhaCIgcG9pbnQ9IiIgZGVs
+dGE9IjMiIHBwbTE9IjE5IiBwcG0yPSIyMCIvPgog
+ICAgPHR0YyBjb2RlPSJmZGVsdGFoIiBwb2ludD0i
+IiBkZWx0YT0iMiIgcHBtMT0iMjYiIHBwbTI9IjI2
+Ii8+CiAgICA8dHRjIGNvZGU9ImZkZWx0YWgiIHBv
+aW50PSIiIGRlbHRhPSIzIiBwcG0xPSIxMyIgcHBt
+Mj0iMTQiLz4KICAgIDx0dGMgY29kZT0iZmRlbHRh
+aCIgcG9pbnQ9IiIgZGVsdGE9IjMiIHBwbTE9IjE5
+IiBwcG0yPSIyMCIvPgogICAgPHR0YyBjb2RlPSJm
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iMyIgcHBt
+MT0iMjUiIHBwbTI9IjI1Ii8+CiAgPC90dFByb2dy
+YW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

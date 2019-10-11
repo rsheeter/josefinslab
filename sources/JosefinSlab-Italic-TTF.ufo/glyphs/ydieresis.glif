@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="601"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresis" xOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJh
+bGlnbmgiIHBvaW50PSIiIGFsaWduPSJyb3VuZCIv
+PgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2lu
+dD0iIiBkZWx0YT0iOCIgcHBtMT0iMTkiIHBwbTI9
+IjE5Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgi
+IHBvaW50PSIiIGRlbHRhPSItOCIgcHBtMT0iMTIi
+IHBwbTI9IjEyIi8+CiAgICA8dHRjIGNvZGU9InNp
+bmdsZWgiIHBvaW50MT0iIiBwb2ludDI9IiIgcm91
+bmQ9InRydWUiLz4KICA8L3R0UHJvZ3JhbT4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

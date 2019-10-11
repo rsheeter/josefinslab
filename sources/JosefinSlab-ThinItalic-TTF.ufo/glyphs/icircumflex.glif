@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="244"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="asciicircum" xOffset="-42"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMTMiIHBwbTI9IjE0Ii8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRhPSI4
+IiBwcG0xPSIxOCIgcHBtMj0iMTgiLz4KICAgIDx0
+dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9IiIgZGVs
+dGE9Ii04IiBwcG0xPSI5IiBwcG0yPSIxMiIvPgog
+IDwvdHRQcm9ncmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

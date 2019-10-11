@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="609"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresis" xOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjIzIiBwcG0yPSIyOCIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0i
+LTgiIHBwbTE9IjEyIiBwcG0yPSIxMiIvPgogICAg
+PHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0iIiBk
+ZWx0YT0iOCIgcHBtMT0iMjAiIHBwbTI9IjIwIi8+
+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50
+PSIiIGRlbHRhPSItOCIgcHBtMT0iMzAiIHBwbTI9
+IjMwIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgi
+IHBvaW50PSIiIGRlbHRhPSItOCIgcHBtMT0iMjEi
+IHBwbTI9IjIxIi8+CiAgICA8dHRjIGNvZGU9Im1k
+ZWx0YWgiIHBvaW50PSIiIGRlbHRhPSItOCIgcHBt
+MT0iMTYiIHBwbTI9IjE3Ii8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRhPSIt
+OCIgcHBtMT0iMTYiIHBwbTI9IjE3Ii8+CiAgICA8
+dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRl
+bHRhPSItOCIgcHBtMT0iMjMiIHBwbTI9IjI4Ii8+
+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50
+PSIiIGRlbHRhPSI4IiBwcG0xPSIyMCIgcHBtMj0i
+MjAiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIg
+cG9pbnQ9IiIgZGVsdGE9Ii04IiBwcG0xPSIyMSIg
+cHBtMj0iMjEiLz4KICAgIDx0dGMgY29kZT0ibWRl
+bHRhaCIgcG9pbnQ9IiIgZGVsdGE9Ii04IiBwcG0x
+PSIxMiIgcHBtMj0iMTIiLz4KICAgIDx0dGMgY29k
+ZT0ibWRlbHRhaCIgcG9pbnQ9IiIgZGVsdGE9Ii04
+IiBwcG0xPSIzMCIgcHBtMj0iMzAiLz4KICAgIDx0
+dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9IiIgZGVs
+dGE9IjgiIHBwbTE9IjkiIHBwbTI9IjkiLz4KICAg
+IDx0dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9IiIg
+ZGVsdGE9IjgiIHBwbTE9IjkiIHBwbTI9IjkiLz4K
+ICA8L3R0UHJvZ3JhbT4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

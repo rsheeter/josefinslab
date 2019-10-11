@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="1">
+  <advance width="468"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <component base="o"/>
+    <component base="asciicircum" xOffset="88"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMjUiIHBwbTI9IjI1Ii8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRhPSI4
+IiBwcG0xPSIxMiIgcHBtMj0iMTIiLz4KICAgIDx0
+dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9IiIgZGVs
+dGE9IjgiIHBwbTE9IjI3IiBwcG0yPSIyNyIvPgog
+ICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0i
+IiBkZWx0YT0iLTgiIHBwbTE9IjE3IiBwcG0yPSIy
+MSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBw
+b2ludD0iIiBkZWx0YT0iLTgiIHBwbTE9IjIzIiBw
+cG0yPSIyMyIvPgogIDwvdHRQcm9ncmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

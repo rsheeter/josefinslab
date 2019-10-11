@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="257"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="100" y="479" type="line" name="sh01"/>
+      <point x="123" y="512"/>
+      <point x="167" y="579"/>
+      <point x="190" y="612" type="qcurve" name="sh02"/>
+      <point x="254" y="612" type="line" name="ah01"/>
+      <point x="227" y="579"/>
+      <point x="173" y="512"/>
+      <point x="146" y="479" type="qcurve" name="sh03"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAx
+      IiBwb2ludDI9InNoMDEiIHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0
+      YWgiIHBvaW50PSJzaDAxIiBkZWx0YT0iLTgiIHBwbTE9IjkiIHBwbTI9IjkiLz4KICAg
+      IDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAxIiBwb2ludDI9InNoMDIiIHN0
+      ZW09Ilg6IDYyIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0ic2gwMSIg
+      cG9pbnQyPSJzaDAzIiBzdGVtPSJYOiA2MiIvPgogICAgPHR0YyBjb2RlPSJhbGlnbnYi
+      IHBvaW50PSJzaDAxIiBhbGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRh
+      diIgcG9pbnQ9InNoMDEiIGRlbHRhPSI4IiBwcG0xPSI5IiBwcG0yPSI5Ii8+CiAgICA8
+      dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50PSJzaDAxIiBkZWx0YT0iLTgiIHBwbTE9IjI0
+      IiBwcG0yPSIyNCIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGV2IiBwb2ludDE9InNoMDEi
+      IHBvaW50Mj0ic2gwMiIgcm91bmQ9InRydWUiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRh
+      diIgcG9pbnQ9InNoMDIiIGRlbHRhPSI4IiBwcG0xPSIxNyIgcHBtMj0iMTgiLz4KICAg
+      IDx0dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9InNoMDIiIGRlbHRhPSI4IiBwcG0xPSI5
+      IiBwcG0yPSIxMSIvPgogIDwvdHRQcm9ncmFtPgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave" format="1">
+  <advance width="547"/>
+  <unicode hex="00E0"/>
+  <outline>
+    <component base="a"/>
+    <component base="grave" xOffset="155"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMTUiIHBwbTI9IjE2Ii8+CiAgPC90dFByb2dy
+YW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

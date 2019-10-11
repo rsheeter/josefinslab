@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="1">
+  <advance width="571"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <component base="E"/>
+    <component base="acute" xOffset="167" yOffset="271"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjE0IiBwcG0yPSIxNCIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGF2IiBwb2ludD0iIiBkZWx0YT0i
+OCIgcHBtMT0iMTEiIHBwbTI9IjExIi8+CiAgICA8
+dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50PSIiIGRl
+bHRhPSI4IiBwcG0xPSIxNSIgcHBtMj0iMTUiLz4K
+ICA8L3R0UHJvZ3JhbT4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

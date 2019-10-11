@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="601"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guillemotleft" xScale="-0.999939" xOffset="576"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJh
+bGlnbmgiIHBvaW50PSIiIGFsaWduPSJyb3VuZCIv
+PgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2lu
+dD0iIiBkZWx0YT0iLTgiIHBwbTE9IjEyIiBwcG0y
+PSIxMiIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGVo
+IiBwb2ludDE9IiIgcG9pbnQyPSJyc2IiIHJvdW5k
+PSJ0cnVlIi8+CiAgPC90dFByb2dyYW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

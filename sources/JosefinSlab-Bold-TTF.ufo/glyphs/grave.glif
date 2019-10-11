@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="200"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="33" y="612" type="line" name="sv01"/>
+      <point x="56" y="579"/>
+      <point x="100" y="512"/>
+      <point x="123" y="479" type="qcurve" name="sh01"/>
+      <point x="64" y="479" type="line" name="av01"/>
+      <point x="35" y="512"/>
+      <point x="-22" y="579"/>
+      <point x="-51" y="612" type="qcurve" name="ah01"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFoMDEi
+      IGRlbHRhPSI4IiBwcG0xPSIxNiIgcHBtMj0iMTYiLz4KICAgIDx0dGMgY29kZT0ic2lu
+      Z2xlaCIgcG9pbnQxPSJhaDAxIiBwb2ludDI9InNoMDEiIHJvdW5kPSJ0cnVlIi8+CiAg
+      ICA8dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50PSJzaDAxIiBkZWx0YT0iLTgiIHBwbTE9
+      IjE1IiBwcG0yPSIxNiIvPgogICAgPHR0YyBjb2RlPSJhbGlnbnYiIHBvaW50PSJhdjAx
+      IiBhbGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9ImF2
+      MDEiIGRlbHRhPSItOCIgcHBtMT0iMjIiIHBwbTI9IjIyIi8+CiAgICA8dHRjIGNvZGU9
+      Im1kZWx0YXYiIHBvaW50PSJhdjAxIiBkZWx0YT0iOCIgcHBtMT0iMTciIHBwbTI9IjE3
+      Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50PSJhdjAxIiBkZWx0YT0iOCIg
+      cHBtMT0iMzAiIHBwbTI9IjMwIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50
+      PSJhdjAxIiBkZWx0YT0iOCIgcHBtMT0iMjgiIHBwbTI9IjI4Ii8+CiAgICA8dHRjIGNv
+      ZGU9Im1kZWx0YXYiIHBvaW50PSJhdjAxIiBkZWx0YT0iOCIgcHBtMT0iOSIgcHBtMj0i
+      OSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBwb2ludD0iYXYwMSIgZGVsdGE9Ii04
+      IiBwcG0xPSIxNiIgcHBtMj0iMTYiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhdiIgcG9p
+      bnQ9ImF2MDEiIGRlbHRhPSItOCIgcHBtMT0iMjQiIHBwbTI9IjI0Ii8+CiAgICA8dHRj
+      IGNvZGU9InNpbmdsZXYiIHBvaW50MT0iYXYwMSIgcG9pbnQyPSJzdjAxIiByb3VuZD0i
+      dHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBwb2ludD0ic3YwMSIgZGVsdGE9
+      IjgiIHBwbTE9IjkiIHBwbTI9IjExIi8+CiAgPC90dFByb2dyYW0+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

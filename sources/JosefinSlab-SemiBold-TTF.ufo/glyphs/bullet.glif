@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="479"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="131" y="300" type="qcurve" name="dh01"/>
+      <point x="131" y="323"/>
+      <point x="148" y="363"/>
+      <point x="162.5" y="377.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="177" y="392"/>
+      <point x="216" y="409"/>
+      <point x="239" y="409" type="qcurve" name="dv02"/>
+      <point x="262" y="409"/>
+      <point x="302" y="392"/>
+      <point x="316.5" y="377.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="331" y="363"/>
+      <point x="348" y="323"/>
+      <point x="348" y="300" type="qcurve" name="dh02"/>
+      <point x="348" y="277"/>
+      <point x="331" y="238"/>
+      <point x="316.5" y="223.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="302" y="209"/>
+      <point x="262" y="192"/>
+      <point x="239" y="192" type="qcurve" name="dv01"/>
+      <point x="216" y="192"/>
+      <point x="177" y="209"/>
+      <point x="162.5" y="223.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="148" y="238"/>
+      <point x="131" y="277"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJkb3VibGVoIiBwb2ludDE9ImRoMDEi
+      IHBvaW50Mj0iZGgwMiIgcm91bmQ9InRydWUiLz4KICAgIDx0dGMgY29kZT0iZG91Ymxl
+      diIgcG9pbnQxPSJkdjAxIiBwb2ludDI9ImR2MDIiIHJvdW5kPSJ0cnVlIi8+CiAgPC90
+      dFByb2dyYW0+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

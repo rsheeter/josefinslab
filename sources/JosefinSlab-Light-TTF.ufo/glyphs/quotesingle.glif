@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="150"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="62" y="472" type="line" name="sv01"/>
+      <point x="62" y="720" type="line" name="ah01"/>
+      <point x="93" y="720" type="line" name="sh01"/>
+      <point x="92" y="657"/>
+      <point x="90" y="535"/>
+      <point x="89" y="472" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAx
+      IiBwb2ludDI9InNoMDEiIHN0ZW09Ilg6IDI4Ii8+CiAgICA8dHRjIGNvZGU9ImFsaWdu
+      dCIgcG9pbnQ9ImFoMDEiIHpvbmU9InQ6IDIiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xl
+      diIgcG9pbnQxPSJhaDAxIiBwb2ludDI9InN2MDEiIHJvdW5kPSJ0cnVlIi8+CiAgPC90
+      dFByb2dyYW0+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="788"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <component base="asciitilde" xOffset="113" yOffset="304"/>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iOSIgcHBtMj0iOSIvPgogICAgPHR0YyBjb2Rl
+PSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIg
+cHBtMT0iMTEiIHBwbTI9IjEzIi8+CiAgICA8dHRj
+IGNvZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRh
+PSItOCIgcHBtMT0iMTUiIHBwbTI9IjE1Ii8+CiAg
+ICA8dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50PSIi
+IGRlbHRhPSI4IiBwcG0xPSIxMSIgcHBtMj0iMTEi
+Lz4KICAgIDx0dGMgY29kZT0ibWRlbHRhdiIgcG9p
+bnQ9IiIgZGVsdGE9IjgiIHBwbTE9IjIxIiBwcG0y
+PSIyMSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2
+IiBwb2ludD0iIiBkZWx0YT0iOCIgcHBtMT0iMjci
+IHBwbTI9IjI3Ii8+CiAgICA8dHRjIGNvZGU9Im1k
+ZWx0YXYiIHBvaW50PSIiIGRlbHRhPSI4IiBwcG0x
+PSIyNCIgcHBtMj0iMjQiLz4KICAgIDx0dGMgY29k
+ZT0ibWRlbHRhdiIgcG9pbnQ9IiIgZGVsdGE9Ijgi
+IHBwbTE9IjE4IiBwcG0yPSIxOCIvPgogICAgPHR0
+YyBjb2RlPSJtZGVsdGF2IiBwb2ludD0iIiBkZWx0
+YT0iLTgiIHBwbTE9IjkiIHBwbTI9IjkiLz4KICAg
+IDx0dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9IiIg
+ZGVsdGE9Ii04IiBwcG0xPSIxMiIgcHBtMj0iMTIi
+Lz4KICA8L3R0UHJvZ3JhbT4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

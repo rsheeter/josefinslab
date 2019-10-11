@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="1">
+  <advance width="518"/>
+  <unicode hex="00FA"/>
+  <outline>
+    <component base="u"/>
+    <component base="acute" xOffset="209"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjEyIiBwcG0yPSIxMiIvPgogIDwvdHRQcm9n
+cmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

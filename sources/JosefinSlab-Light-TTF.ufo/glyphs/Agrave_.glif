@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="820"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <component base="A"/>
+    <component base="grave" xOffset="321" yOffset="271"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjIxIiBwcG0yPSIyMSIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0i
+OCIgcHBtMT0iMjUiIHBwbTI9IjI5Ii8+CiAgICA8
+dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRl
+bHRhPSI4IiBwcG0xPSIxNyIgcHBtMj0iMTciLz4K
+ICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9
+IiIgZGVsdGE9Ii04IiBwcG0xPSI5IiBwcG0yPSIx
+MiIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBw
+b2ludD0iIiBkZWx0YT0iLTgiIHBwbTE9IjE5IiBw
+cG0yPSIxOSIvPgogICAgPHR0YyBjb2RlPSJtZGVs
+dGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBwbTE9
+IjE0IiBwcG0yPSIxNSIvPgogICAgPHR0YyBjb2Rl
+PSJtZGVsdGF2IiBwb2ludD0iIiBkZWx0YT0iOCIg
+cHBtMT0iMTkiIHBwbTI9IjIwIi8+CiAgICA8dHRj
+IGNvZGU9Im1kZWx0YXYiIHBvaW50PSIiIGRlbHRh
+PSI4IiBwcG0xPSIyNiIgcHBtMj0iMjgiLz4KICAg
+IDx0dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9IiIg
+ZGVsdGE9IjgiIHBwbTE9IjMwIiBwcG0yPSIzMCIv
+PgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBwb2lu
+dD0iIiBkZWx0YT0iOCIgcHBtMT0iMjMiIHBwbTI9
+IjIzIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YXYi
+IHBvaW50PSIiIGRlbHRhPSI4IiBwcG0xPSIxNSIg
+cHBtMj0iMTYiLz4KICAgIDx0dGMgY29kZT0ibWRl
+bHRhdiIgcG9pbnQ9IiIgZGVsdGE9IjgiIHBwbTE9
+IjExIiBwcG0yPSIxMSIvPgogIDwvdHRQcm9ncmFt
+Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

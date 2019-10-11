@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="150"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="44" y="472" type="line" name="ah01"/>
+      <point x="79" y="720" type="line" name="sh01"/>
+      <point x="110" y="720" type="line" name="sh03"/>
+      <point x="100" y="657"/>
+      <point x="81" y="535"/>
+      <point x="71" y="472" type="qcurve" name="sh02"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFoMDEi
+      IGRlbHRhPSI4IiBwcG0xPSIyNCIgcHBtMj0iMjUiLz4KICAgIDx0dGMgY29kZT0ibWRl
+      bHRhaCIgcG9pbnQ9ImFoMDEiIGRlbHRhPSI4IiBwcG0xPSIzMCIgcHBtMj0iMzAiLz4K
+      ICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFoMDEiIGRlbHRhPSI4IiBwcG0x
+      PSI5IiBwcG0yPSIxMSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0iYWgw
+      MSIgZGVsdGE9IjEiIHBwbTE9IjEzIiBwcG0yPSIxNSIvPgogICAgPHR0YyBjb2RlPSJz
+      aW5nbGVoIiBwb2ludDE9ImFoMDEiIHBvaW50Mj0ic2gwMSIvPgogICAgPHR0YyBjb2Rl
+      PSJtZGVsdGFoIiBwb2ludD0ic2gwMSIgZGVsdGE9IjEiIHBwbTE9IjE2IiBwcG0yPSIx
+      NiIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGVoIiBwb2ludDE9ImFoMDEiIHBvaW50Mj0i
+      c2gwMiIgc3RlbT0iWDogMjgiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQx
+      PSJzaDAyIiBwb2ludDI9InNoMDMiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9p
+      bnQ9InNoMDMiIGRlbHRhPSIxIiBwcG0xPSIxNiIgcHBtMj0iMTYiLz4KICAgIDx0dGMg
+      Y29kZT0iYWxpZ252IiBwb2ludD0iYWgwMSIgYWxpZ249InJvdW5kIi8+CiAgICA8dHRj
+      IGNvZGU9InNpbmdsZXYiIHBvaW50MT0iYWgwMSIgcG9pbnQyPSJzaDAxIiByb3VuZD0i
+      dHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJmZGVsdGFoIiBwb2ludD0ic2gwMSIgZGVsdGE9
+      IjEiIHBwbTE9IjE5IiBwcG0yPSIyMCIvPgogICAgPHR0YyBjb2RlPSJmZGVsdGFoIiBw
+      b2ludD0ic2gwMSIgZGVsdGE9IjEiIHBwbTE9IjIzIiBwcG0yPSIyNCIvPgogICAgPHR0
+      YyBjb2RlPSJmZGVsdGFoIiBwb2ludD0ic2gwMSIgZGVsdGE9IjEiIHBwbTE9IjI3IiBw
+      cG0yPSIyOCIvPgogIDwvdHRQcm9ncmFtPgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

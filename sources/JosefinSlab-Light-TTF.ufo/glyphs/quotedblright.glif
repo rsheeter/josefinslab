@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="248"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="50" y="571" type="qcurve" name="sv01"/>
+      <point x="47" y="576"/>
+      <point x="41" y="585"/>
+      <point x="37" y="590" type="qcurve" name="sh01"/>
+      <point x="58" y="610"/>
+      <point x="77" y="669"/>
+      <point x="70" y="704" type="qcurve" name="sh02"/>
+      <point x="77" y="706"/>
+      <point x="90" y="709"/>
+      <point x="96" y="711" type="qcurve" name="ah01"/>
+      <point x="104" y="671"/>
+      <point x="79" y="597"/>
+    </contour>
+    <contour>
+      <point x="154" y="571" type="qcurve" name="fh01"/>
+      <point x="151" y="576"/>
+      <point x="145" y="585"/>
+      <point x="141" y="590" type="qcurve" name="sh05"/>
+      <point x="162" y="610"/>
+      <point x="181" y="669"/>
+      <point x="174" y="704" type="qcurve" name="sh03"/>
+      <point x="181" y="706"/>
+      <point x="194" y="709"/>
+      <point x="200" y="711" type="qcurve" name="sh04"/>
+      <point x="208" y="671"/>
+      <point x="183" y="597"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAx
+      IiBwb2ludDI9InNoMDEiIHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0
+      YWgiIHBvaW50PSJzaDAxIiBkZWx0YT0iLTgiIHBwbTE9IjI1IiBwcG0yPSIyNSIvPgog
+      ICAgPHR0YyBjb2RlPSJzaW5nbGVoIiBwb2ludDE9ImFoMDEiIHBvaW50Mj0ic2gwMiIg
+      c3RlbT0iWDogMjgiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAx
+      IiBwb2ludDI9InNoMDMiIHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9InNpbmds
+      ZWgiIHBvaW50MT0ic2gwMyIgcG9pbnQyPSJzaDA0IiBzdGVtPSJYOiAyOCIvPgogICAg
+      PHR0YyBjb2RlPSJzaW5nbGVoIiBwb2ludDE9InNoMDQiIHBvaW50Mj0ic2gwNSIgcm91
+      bmQ9InRydWUiLz4KICAgIDx0dGMgY29kZT0iYWxpZ250IiBwb2ludD0iYWgwMSIgem9u
+      ZT0idDogMiIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGV2IiBwb2ludDE9ImFoMDEiIHBv
+      aW50Mj0ic3YwMSIgcm91bmQ9InRydWUiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xldiIg
+      cG9pbnQxPSJhaDAxIiBwb2ludDI9InNoMDQiLz4KICAgIDx0dGMgY29kZT0iZmRlbHRh
+      aCIgcG9pbnQ9ImZoMDEiIGRlbHRhPSI1IiBwcG0xPSIxMSIgcHBtMj0iMTIiLz4KICAg
+      IDx0dGMgY29kZT0iZmRlbHRhaCIgcG9pbnQ9ImZoMDEiIGRlbHRhPSI1IiBwcG0xPSIx
+      OCIgcHBtMj0iMjAiLz4KICA8L3R0UHJvZ3JhbT4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

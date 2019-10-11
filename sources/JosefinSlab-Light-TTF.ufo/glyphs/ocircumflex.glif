@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="1">
+  <advance width="463"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <component base="o"/>
+    <component base="asciicircum" xOffset="3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjE1IiBwcG0yPSIxNSIvPgogIDwvdHRQcm9n
+cmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

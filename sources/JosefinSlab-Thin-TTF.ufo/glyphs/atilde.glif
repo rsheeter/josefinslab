@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="1">
+  <advance width="532"/>
+  <unicode hex="00E3"/>
+  <outline>
+    <component base="a"/>
+    <component base="asciitilde" xOffset="-41"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMTgiIHBwbTI9IjE4Ii8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRhPSI4
+IiBwcG0xPSIxMSIgcHBtMj0iMTEiLz4KICA8L3R0
+UHJvZ3JhbT4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

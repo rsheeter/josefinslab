@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="1">
+  <advance width="468"/>
+  <unicode hex="00F2"/>
+  <outline>
+    <component base="o"/>
+    <component base="grave" xOffset="214"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjIxIiBwcG0yPSIyMSIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0i
+OCIgcHBtMT0iMjgiIHBwbTI9IjMwIi8+CiAgICA8
+dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRl
+bHRhPSI4IiBwcG0xPSIyNSIgcHBtMj0iMjUiLz4K
+ICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9
+IiIgZGVsdGE9Ii04IiBwcG0xPSI5IiBwcG0yPSI5
+Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgiIHBv
+aW50PSIiIGRlbHRhPSItOCIgcHBtMT0iMTgiIHBw
+bTI9IjE4Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0
+YWgiIHBvaW50PSIiIGRlbHRhPSItOCIgcHBtMT0i
+MTIiIHBwbTI9IjEzIi8+CiAgPC90dFByb2dyYW0+
+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

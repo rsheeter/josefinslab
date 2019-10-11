@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute" format="1">
+  <advance width="788"/>
+  <unicode hex="00C1"/>
+  <outline>
+    <component base="acute" xOffset="266" yOffset="271"/>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0ibHNiIiBkZWx0YT0iOCIg
+cHBtMT0iMTMiIHBwbTI9IjEzIi8+CiAgICA8dHRj
+IGNvZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRh
+PSItOCIgcHBtMT0iMTUiIHBwbTI9IjE1Ii8+CiAg
+ICA8dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50PSIi
+IGRlbHRhPSItOCIgcHBtMT0iMTciIHBwbTI9IjE3
+Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YXYiIHBv
+aW50PSJsc2IiIGRlbHRhPSI4IiBwcG0xPSIyMiIg
+cHBtMj0iMjIiLz4KICAgIDx0dGMgY29kZT0ibWRl
+bHRhdiIgcG9pbnQ9ImxzYiIgZGVsdGE9IjgiIHBw
+bTE9IjExIiBwcG0yPSIxMSIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGF2IiBwb2ludD0ibHNiIiBkZWx0
+YT0iOCIgcHBtMT0iMTUiIHBwbTI9IjE2Ii8+CiAg
+ICA8dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50PSJs
+c2IiIGRlbHRhPSItOCIgcHBtMT0iMjgiIHBwbTI9
+IjI4Ii8+CiAgPC90dFByb2dyYW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

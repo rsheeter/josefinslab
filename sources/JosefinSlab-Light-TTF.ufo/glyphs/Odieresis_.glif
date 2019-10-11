@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="1">
+  <advance width="786"/>
+  <unicode hex="00D6"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresis" xOffset="213" yOffset="290"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMTEiIHBwbTI9IjExIi8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRhPSI4
+IiBwcG0xPSIxNiIgcHBtMj0iMTYiLz4KICAgIDx0
+dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9IiIgZGVs
+dGE9Ii04IiBwcG0xPSIyMiIgcHBtMj0iMjMiLz4K
+ICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9
+IiIgZGVsdGE9IjgiIHBwbTE9IjExIiBwcG0yPSIx
+MSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBw
+b2ludD0iIiBkZWx0YT0iOCIgcHBtMT0iMTYiIHBw
+bTI9IjE2Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0
+YWgiIHBvaW50PSIiIGRlbHRhPSItOCIgcHBtMT0i
+MjIiIHBwbTI9IjIzIi8+CiAgICA8dHRjIGNvZGU9
+Im1kZWx0YXYiIHBvaW50PSIiIGRlbHRhPSI4IiBw
+cG0xPSIxMSIgcHBtMj0iMTEiLz4KICAgIDx0dGMg
+Y29kZT0ibWRlbHRhdiIgcG9pbnQ9IiIgZGVsdGE9
+IjgiIHBwbTE9IjE1IiBwcG0yPSIxNSIvPgogICAg
+PHR0YyBjb2RlPSJtZGVsdGF2IiBwb2ludD0iIiBk
+ZWx0YT0iLTgiIHBwbTE9IjkiIHBwbTI9IjkiLz4K
+ICAgIDx0dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9
+IiIgZGVsdGE9IjgiIHBwbTE9IjExIiBwcG0yPSIx
+MSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBw
+b2ludD0iIiBkZWx0YT0iLTgiIHBwbTE9IjkiIHBw
+bTI9IjkiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRh
+diIgcG9pbnQ9IiIgZGVsdGE9IjgiIHBwbTE9IjE1
+IiBwcG0yPSIxNSIvPgogIDwvdHRQcm9ncmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

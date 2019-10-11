@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="1">
+  <advance width="788"/>
+  <unicode hex="00C2"/>
+  <outline>
+    <component base="asciicircum" xOffset="162" yOffset="271"/>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMjEiIHBwbTI9IjIxIi8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRhPSI4
+IiBwcG0xPSIxMyIgcHBtMj0iMTMiLz4KICAgIDx0
+dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9IiIgZGVs
+dGE9IjgiIHBwbTE9IjE4IiBwcG0yPSIxOCIvPgog
+ICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0i
+IiBkZWx0YT0iLTgiIHBwbTE9IjEwIiBwcG0yPSIx
+MCIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBw
+b2ludD0iIiBkZWx0YT0iOCIgcHBtMT0iMjIiIHBw
+bTI9IjIyIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0
+YXYiIHBvaW50PSIiIGRlbHRhPSI4IiBwcG0xPSIx
+MSIgcHBtMj0iMTEiLz4KICAgIDx0dGMgY29kZT0i
+bWRlbHRhdiIgcG9pbnQ9IiIgZGVsdGE9IjgiIHBw
+bTE9IjE1IiBwcG0yPSIxNiIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGF2IiBwb2ludD0iIiBkZWx0YT0i
+LTgiIHBwbTE9IjI4IiBwcG0yPSIyOCIvPgogIDwv
+dHRQcm9ncmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="1">
+  <advance width="712"/>
+  <unicode hex="00DB"/>
+  <outline>
+    <component base="U"/>
+    <component base="asciicircum" xOffset="245" yOffset="272"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjE1IiBwcG0yPSIxNiIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0i
+LTgiIHBwbTE9IjIzIiBwcG0yPSIyMyIvPgogICAg
+PHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0iIiBk
+ZWx0YT0iOCIgcHBtMT0iMjUiIHBwbTI9IjI1Ii8+
+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50
+PSIiIGRlbHRhPSI4IiBwcG0xPSIyMiIgcHBtMj0i
+MjIiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIg
+cG9pbnQ9IiIgZGVsdGE9IjgiIHBwbTE9IjMwIiBw
+cG0yPSIzMCIvPgogICAgPHR0YyBjb2RlPSJtZGVs
+dGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBwbTE9
+IjI3IiBwcG0yPSIyNyIvPgogICAgPHR0YyBjb2Rl
+PSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgi
+IHBwbTE9IjE5IiBwcG0yPSIxOSIvPgogICAgPHR0
+YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0
+YT0iLTgiIHBwbTE9IjEzIiBwcG0yPSIxMyIvPgog
+ICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0i
+IiBkZWx0YT0iLTgiIHBwbTE9IjExIiBwcG0yPSIx
+MSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBw
+b2ludD0iIiBkZWx0YT0iOCIgcHBtMT0iMTUiIHBw
+bTI9IjE2Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0
+YXYiIHBvaW50PSIiIGRlbHRhPSI4IiBwcG0xPSIy
+MCIgcHBtMj0iMjAiLz4KICA8L3R0UHJvZ3JhbT4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

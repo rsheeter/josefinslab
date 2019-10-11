@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="1">
+  <advance width="522"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <component base="n"/>
+    <component base="asciitilde" xOffset="51" yOffset="-11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjE5IiBwcG0yPSIxOSIvPgogIDwvdHRQcm9n
+cmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

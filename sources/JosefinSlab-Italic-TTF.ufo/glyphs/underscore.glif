@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="600"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="497" y="0" type="line" name="sh01"/>
+      <point x="97" y="0" type="line" name="ah01"/>
+      <point x="102" y="41" type="line" name="sv01"/>
+      <point x="502" y="41" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAx
+      IiBwb2ludDI9InNoMDEiIHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9ImFsaWdu
+      YiIgcG9pbnQ9ImFoMDEiIHpvbmU9ImIwIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZXYi
+      IHBvaW50MT0iYWgwMSIgcG9pbnQyPSJzdjAxIiBzdGVtPSJZOiA0MCIvPgogIDwvdHRQ
+      cm9ncmFtPgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

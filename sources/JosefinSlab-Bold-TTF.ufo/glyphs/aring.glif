@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="1">
+  <advance width="547"/>
+  <unicode hex="00E5"/>
+  <outline>
+    <component base="a"/>
+    <component base="ring" xOffset="120"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJh
+bGlnbmgiIHBvaW50PSIiIGFsaWduPSJyb3VuZCIv
+PgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2lu
+dD0iIiBkZWx0YT0iLTgiIHBwbTE9IjEzIiBwcG0y
+PSIxMyIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGVo
+IiBwb2ludDE9IiIgcG9pbnQyPSIiIHJvdW5kPSJ0
+cnVlIi8+CiAgPC90dFByb2dyYW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

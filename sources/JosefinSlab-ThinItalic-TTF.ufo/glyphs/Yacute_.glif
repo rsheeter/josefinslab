@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="718"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acute" xOffset="374" yOffset="271"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iLTgiIHBw
+bTE9IjE1IiBwcG0yPSIxNiIvPgogICAgPHR0YyBj
+b2RlPSJtZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0i
+LTgiIHBwbTE9IjI2IiBwcG0yPSIyNiIvPgogICAg
+PHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0iIiBk
+ZWx0YT0iLTgiIHBwbTE9IjE4IiBwcG0yPSIxOCIv
+PgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBwb2lu
+dD0iIiBkZWx0YT0iOCIgcHBtMT0iMTEiIHBwbTI9
+IjExIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YXYi
+IHBvaW50PSIiIGRlbHRhPSI4IiBwcG0xPSIyMiIg
+cHBtMj0iMjIiLz4KICAgIDx0dGMgY29kZT0ibWRl
+bHRhdiIgcG9pbnQ9IiIgZGVsdGE9IjgiIHBwbTE9
+IjE0IiBwcG0yPSIxNiIvPgogIDwvdHRQcm9ncmFt
+Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

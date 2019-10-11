@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="439"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="question" xScale="-0.999939" yScale="-0.999939" xOffset="462" yOffset="539"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJh
+bGlnbnQiIHBvaW50PSIiIHpvbmU9InQ6IDAiLz4K
+ICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQx
+PSIiIHBvaW50Mj0iIi8+CiAgPC90dFByb2dyYW0+
+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

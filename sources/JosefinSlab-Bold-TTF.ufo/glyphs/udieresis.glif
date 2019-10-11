@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="1">
+  <advance width="570"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresis" xOffset="79"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJh
+bGlnbmgiIHBvaW50PSIiIGFsaWduPSJyb3VuZCIv
+PgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2lu
+dD0iIiBkZWx0YT0iOCIgcHBtMT0iMTYiIHBwbTI9
+IjE2Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgi
+IHBvaW50PSIiIGRlbHRhPSI4IiBwcG0xPSIzMCIg
+cHBtMj0iMzAiLz4KICAgIDx0dGMgY29kZT0ibWRl
+bHRhaCIgcG9pbnQ9IiIgZGVsdGE9Ii04IiBwcG0x
+PSIxMSIgcHBtMj0iMTIiLz4KICAgIDx0dGMgY29k
+ZT0ic2luZ2xlaCIgcG9pbnQxPSIiIHBvaW50Mj0i
+IiByb3VuZD0idHJ1ZSIvPgogIDwvdHRQcm9ncmFt
+Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

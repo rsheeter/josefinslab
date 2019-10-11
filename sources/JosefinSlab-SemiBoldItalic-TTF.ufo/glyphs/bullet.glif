@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="479"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="146" y="300" type="qcurve" name="ah01"/>
+      <point x="149" y="323"/>
+      <point x="171" y="363"/>
+      <point x="188.0" y="377.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="205" y="392"/>
+      <point x="246" y="409"/>
+      <point x="269" y="409" type="qcurve" name="sv01"/>
+      <point x="315" y="409"/>
+      <point x="369" y="346"/>
+      <point x="363" y="300" type="qcurve" name="sh01"/>
+      <point x="360" y="277"/>
+      <point x="337" y="238"/>
+      <point x="320.5" y="223.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="304" y="209"/>
+      <point x="262" y="192"/>
+      <point x="239" y="192" type="qcurve" name="av01"/>
+      <point x="216" y="192"/>
+      <point x="179" y="209"/>
+      <point x="166.5" y="223.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="154" y="238"/>
+      <point x="143" y="277"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFoMDEi
+      IGRlbHRhPSI4IiBwcG0xPSIyMCIgcHBtMj0iMjAiLz4KICAgIDx0dGMgY29kZT0ibWRl
+      bHRhaCIgcG9pbnQ9ImFoMDEiIGRlbHRhPSI4IiBwcG0xPSIyOSIgcHBtMj0iMzAiLz4K
+      ICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFoMDEiIGRlbHRhPSI4IiBwcG0x
+      PSIyMiIgcHBtMj0iMjIiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFo
+      MDEiIGRlbHRhPSI4IiBwcG0xPSIxNCIgcHBtMj0iMTciLz4KICAgIDx0dGMgY29kZT0i
+      bWRlbHRhaCIgcG9pbnQ9ImFoMDEiIGRlbHRhPSI4IiBwcG0xPSIxMCIgcHBtMj0iMTAi
+      Lz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAxIiBwb2ludDI9InNo
+      MDEiIHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9ImFsaWdudiIgcG9pbnQ9ImF2
+      MDEiIGFsaWduPSJyb3VuZCIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGV2IiBwb2ludDE9
+      ImF2MDEiIHBvaW50Mj0ic3YwMSIgcm91bmQ9InRydWUiLz4KICA8L3R0UHJvZ3JhbT4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

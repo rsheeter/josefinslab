@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="319"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="35" y="59" type="line" name="sh02"/>
+      <point x="96" y="59" type="line"/>
+      <point x="96" y="314" type="line" name="sh03"/>
+      <point x="35" y="314" type="line"/>
+      <point x="35" y="375" type="line" name="sh01"/>
+      <point x="95" y="375" type="line" name="dh01"/>
+      <point x="95" y="517" type="line"/>
+      <point x="95" y="573"/>
+      <point x="130" y="659" name="fv01"/>
+      <point x="160.0" y="688.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="190" y="718" name="fh01"/>
+      <point x="272" y="749"/>
+      <point x="319" y="751" type="qcurve" name="at01"/>
+      <point x="319" y="691" type="line" name="dh02"/>
+      <point x="285" y="690"/>
+      <point x="226" y="665"/>
+      <point x="204.5" y="642.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="183" y="620" name="fh02"/>
+      <point x="158" y="556"/>
+      <point x="158" y="516" type="qcurve"/>
+      <point x="158" y="375" type="line" name="sh04"/>
+      <point x="279" y="375" type="line" name="sh05"/>
+      <point x="279" y="314" type="line"/>
+      <point x="158" y="314" type="line" name="sh06"/>
+      <point x="158" y="59" type="line" name="sv01"/>
+      <point x="243" y="59" type="line" name="sh07"/>
+      <point x="243" y="0" type="line"/>
+      <point x="35" y="0" type="line" name="ab01"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJkb3VibGVoIiBwb2ludDE9ImRoMDEi
+      IHBvaW50Mj0iZGgwMiIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0iZGgw
+      MSIgZGVsdGE9IjgiIHBwbTE9IjE2IiBwcG0yPSIxNiIvPgogICAgPHR0YyBjb2RlPSJz
+      aW5nbGVoIiBwb2ludDE9ImRoMDEiIHBvaW50Mj0ic2gwMSIgcm91bmQ9InRydWUiLz4K
+      ICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJzaDAxIiBwb2ludDI9InNoMDIi
+      Lz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJkaDAxIiBwb2ludDI9InNo
+      MDMiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJkaDAxIiBwb2ludDI9
+      InNoMDQiIHN0ZW09Ilg6IDYyIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50
+      MT0ic2gwNCIgcG9pbnQyPSJzaDA1IiByb3VuZD0idHJ1ZSIvPgogICAgPHR0YyBjb2Rl
+      PSJzaW5nbGVoIiBwb2ludDE9InNoMDQiIHBvaW50Mj0ic2gwNiIvPgogICAgPHR0YyBj
+      b2RlPSJzaW5nbGVoIiBwb2ludDE9InNoMDQiIHBvaW50Mj0ic2gwNyIgcm91bmQ9InRy
+      dWUiLz4KICAgIDx0dGMgY29kZT0iYWxpZ250IiBwb2ludD0iYXQwMSIgem9uZT0idDog
+      MyIvPgogICAgPHR0YyBjb2RlPSJhbGlnbnQiIHBvaW50PSJkaDAxIiB6b25lPSJ0OiAw
+      Ii8+CiAgICA8dHRjIGNvZGU9ImFsaWduYiIgcG9pbnQ9ImFiMDEiIHpvbmU9ImI6IDAi
+      Lz4KICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQxPSJhYjAxIiBwb2ludDI9InNo
+      MDIiIHN0ZW09Ilk6IDYyIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZXYiIHBvaW50MT0i
+      ZGgwMSIgcG9pbnQyPSJzaDAzIiBzdGVtPSJZOiA2MiIvPgogICAgPHR0YyBjb2RlPSJz
+      aW5nbGV2IiBwb2ludDE9ImF0MDEiIHBvaW50Mj0iZGgwMiIgc3RlbT0iWTogNjIiLz4K
+      ICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQxPSJkaDAxIiBwb2ludDI9InNoMDQi
+      Lz4KICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQxPSJzaDAzIiBwb2ludDI9InNo
+      MDYiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQxPSJzaDAyIiBwb2ludDI9
+      InN2MDEiLz4KICAgIDx0dGMgY29kZT0iZmRlbHRhaCIgcG9pbnQ9ImZoMDEiIGRlbHRh
+      PSIyIiBwcG0xPSIxNSIgcHBtMj0iMTUiLz4KICAgIDx0dGMgY29kZT0iZmRlbHRhaCIg
+      cG9pbnQ9ImZoMDEiIGRlbHRhPSI0IiBwcG0xPSIxNiIgcHBtMj0iMTYiLz4KICAgIDx0
+      dGMgY29kZT0iZmRlbHRhaCIgcG9pbnQ9ImZoMDEiIGRlbHRhPSI1IiBwcG0xPSIyMSIg
+      cHBtMj0iMjIiLz4KICAgIDx0dGMgY29kZT0iZmRlbHRhaCIgcG9pbnQ9ImZoMDIiIGRl
+      bHRhPSItMiIgcHBtMT0iMTMiIHBwbTI9IjE0Ii8+CiAgICA8dHRjIGNvZGU9ImZkZWx0
+      YXYiIHBvaW50PSJmdjAxIiBkZWx0YT0iLTMiIHBwbTE9IjIxIiBwcG0yPSIyMSIvPgog
+      ICAgPHR0YyBjb2RlPSJmZGVsdGF2IiBwb2ludD0iZmgwMSIgZGVsdGE9Ii0xIiBwcG0x
+      PSIxNSIgcHBtMj0iMTUiLz4KICAgIDx0dGMgY29kZT0iZmRlbHRhdiIgcG9pbnQ9ImZo
+      MDEiIGRlbHRhPSItMSIgcHBtMT0iMjEiIHBwbTI9IjIxIi8+CiAgICA8dHRjIGNvZGU9
+      ImZkZWx0YXYiIHBvaW50PSJmaDAyIiBkZWx0YT0iMiIgcHBtMT0iMTMiIHBwbTI9IjEz
+      Ii8+CiAgICA8dHRjIGNvZGU9ImZkZWx0YXYiIHBvaW50PSJmaDAyIiBkZWx0YT0iMyIg
+      cHBtMT0iMTIiIHBwbTI9IjEyIi8+CiAgICA8dHRjIGNvZGU9ImZkZWx0YXYiIHBvaW50
+      PSJmaDAyIiBkZWx0YT0iNCIgcHBtMT0iMTQiIHBwbTI9IjE0Ii8+CiAgPC90dFByb2dy
+      YW0+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

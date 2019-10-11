@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="1">
+  <advance width="685"/>
+  <unicode hex="00DB"/>
+  <outline>
+    <component base="U"/>
+    <component base="asciicircum" xOffset="230" yOffset="271"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMTMiIHBwbTI9IjEzIi8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YWgiIHBvaW50PSIiIGRlbHRhPSIt
+OCIgcHBtMT0iMTYiIHBwbTI9IjE3Ii8+CiAgPC90
+dFByb2dyYW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

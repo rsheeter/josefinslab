@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="601"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="459" y="77" type="line" name="sh02"/>
+      <point x="310" y="239" type="line" name="sh01"/>
+      <point x="359" y="280"/>
+      <point x="455" y="359"/>
+      <point x="504" y="400" type="qcurve" name="sh03"/>
+      <point x="498" y="352" type="line" name="sv02"/>
+      <point x="466.5" y="324.5" name="inserted"/>
+      <point x="402.5" y="268.0"/>
+      <point x="370" y="239" type="qcurve" name="sh04"/>
+      <point x="393" y="210"/>
+      <point x="442" y="154"/>
+      <point x="465" y="125" type="qcurve" name="sv04"/>
+    </contour>
+    <contour>
+      <point x="288" y="77" type="line" name="sh05"/>
+      <point x="139" y="239" type="line" name="ah01"/>
+      <point x="188" y="280"/>
+      <point x="284" y="359"/>
+      <point x="333" y="400" type="qcurve" name="sh06"/>
+      <point x="327" y="352" type="line" name="sv01"/>
+      <point x="295" y="323"/>
+      <point x="231" y="268"/>
+      <point x="199" y="239" type="qcurve" name="sh07"/>
+      <point x="222" y="210"/>
+      <point x="271" y="154"/>
+      <point x="294" y="125" type="qcurve" name="sv03"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAx
+      IiBwb2ludDI9InNoMDEiIHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9InNpbmds
+      ZWgiIHBvaW50MT0ic2gwMSIgcG9pbnQyPSJzaDAyIiByb3VuZD0idHJ1ZSIvPgogICAg
+      PHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0ic2gwMiIgZGVsdGE9IjgiIHBwbTE9Ijki
+      IHBwbTI9IjEwIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0ic2gwMSIg
+      cG9pbnQyPSJzaDAzIiByb3VuZD0idHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGVo
+      IiBwb2ludDE9InNoMDEiIHBvaW50Mj0ic2gwNCIvPgogICAgPHR0YyBjb2RlPSJtZGVs
+      dGFoIiBwb2ludD0ic2gwNCIgZGVsdGE9Ii0zIiBwcG0xPSIyNCIgcHBtMj0iMjciLz4K
+      ICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9InNoMDQiIGRlbHRhPSItNCIgcHBt
+      MT0iMjgiIHBwbTI9IjMwIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0i
+      YWgwMSIgcG9pbnQyPSJzaDA1IiByb3VuZD0idHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJt
+      ZGVsdGFoIiBwb2ludD0ic2gwNSIgZGVsdGE9IjgiIHBwbTE9IjkiIHBwbTI9IjEwIi8+
+      CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0iYWgwMSIgcG9pbnQyPSJzaDA2
+      IiByb3VuZD0idHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGVoIiBwb2ludDE9ImFo
+      MDEiIHBvaW50Mj0ic2gwNyIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0i
+      c2gwNyIgZGVsdGE9Ii0zIiBwcG0xPSIyNCIgcHBtMj0iMjciLz4KICAgIDx0dGMgY29k
+      ZT0ibWRlbHRhaCIgcG9pbnQ9InNoMDciIGRlbHRhPSItNCIgcHBtMT0iMjgiIHBwbTI9
+      IjMwIi8+CiAgICA8dHRjIGNvZGU9ImFsaWdudiIgcG9pbnQ9ImFoMDEiIGFsaWduPSJj
+      ZW50ZXIiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQxPSJhaDAxIiBwb2lu
+      dDI9InNoMDUiIGFsaWduPSJyb3VuZCIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGV2IiBw
+      b2ludDE9InNoMDUiIHBvaW50Mj0ic2gwMiIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGV2
+      IiBwb2ludDE9ImFoMDEiIHBvaW50Mj0ic2gwNyIvPgogICAgPHR0YyBjb2RlPSJzaW5n
+      bGV2IiBwb2ludDE9InNoMDciIHBvaW50Mj0ic2gwMSIvPgogICAgPHR0YyBjb2RlPSJz
+      aW5nbGV2IiBwb2ludDE9ImFoMDEiIHBvaW50Mj0ic2gwNiIgYWxpZ249InJvdW5kIi8+
+      CiAgICA8dHRjIGNvZGU9InNpbmdsZXYiIHBvaW50MT0ic2gwNiIgcG9pbnQyPSJzaDAz
+      Ii8+CiAgICA8dHRjIGNvZGU9InNpbmdsZXYiIHBvaW50MT0ic2gwNiIgcG9pbnQyPSJz
+      djAxIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50PSJzdjAxIiBkZWx0YT0i
+      MyIgcHBtMT0iMjQiIHBwbTI9IjMwIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZXYiIHBv
+      aW50MT0ic3YwMSIgcG9pbnQyPSJzdjAyIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZXYi
+      IHBvaW50MT0ic2gwMSIgcG9pbnQyPSJzaDA0Ii8+CiAgICA8dHRjIGNvZGU9InNpbmds
+      ZXYiIHBvaW50MT0ic2gwNSIgcG9pbnQyPSJzdjAzIi8+CiAgICA8dHRjIGNvZGU9Im1k
+      ZWx0YXYiIHBvaW50PSJzdjAzIiBkZWx0YT0iLTMiIHBwbTE9IjI0IiBwcG0yPSIzMCIv
+      PgogICAgPHR0YyBjb2RlPSJzaW5nbGV2IiBwb2ludDE9InN2MDMiIHBvaW50Mj0ic3Yw
+      NCIvPgogIDwvdHRQcm9ncmFtPgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

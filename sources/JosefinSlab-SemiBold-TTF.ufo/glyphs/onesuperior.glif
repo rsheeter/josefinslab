@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="266"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="63" y="428" type="line" name="sh01"/>
+      <point x="99" y="428" type="line" name="dh01"/>
+      <point x="99" y="672" type="line"/>
+      <point x="62" y="672" type="line" name="sh02"/>
+      <point x="62" y="700" type="line" name="at01"/>
+      <point x="128" y="700" type="line"/>
+      <point x="128" y="428" type="line" name="dh02"/>
+      <point x="165" y="428" type="line" name="sh03"/>
+      <point x="165" y="401" type="line"/>
+      <point x="63" y="401" type="line" name="sv01"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJkb3VibGVoIiBwb2ludDE9ImRoMDEi
+      IHBvaW50Mj0iZGgwMiIgc3RlbT0iWDogMzAiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xl
+      aCIgcG9pbnQxPSJkaDAxIiBwb2ludDI9InNoMDEiIHJvdW5kPSJ0cnVlIi8+CiAgICA8
+      dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0iZGgwMSIgcG9pbnQyPSJzaDAyIiByb3Vu
+      ZD0idHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGVoIiBwb2ludDE9ImRoMDIiIHBv
+      aW50Mj0ic2gwMyIgcm91bmQ9InRydWUiLz4KICAgIDx0dGMgY29kZT0iYWxpZ250IiBw
+      b2ludD0iYXQwMSIgem9uZT0idDogMSIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGV2IiBw
+      b2ludDE9ImF0MDEiIHBvaW50Mj0ic3YwMSIgcm91bmQ9InRydWUiLz4KICAgIDx0dGMg
+      Y29kZT0ibWRlbHRhdiIgcG9pbnQ9InN2MDEiIGRlbHRhPSItOCIgcHBtMT0iMTQiIHBw
+      bTI9IjE1Ii8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YXYiIHBvaW50PSJzdjAxIiBkZWx0
+      YT0iLTgiIHBwbTE9IjE3IiBwcG0yPSIxOCIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2
+      IiBwb2ludD0ic3YwMSIgZGVsdGE9Ii04IiBwcG0xPSIxMSIgcHBtMj0iMTEiLz4KICAg
+      IDx0dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9InN2MDEiIGRlbHRhPSItOCIgcHBtMT0i
+      MjQiIHBwbTI9IjI1Ii8+CiAgICA8dHRjIGNvZGU9InNpbmdsZXYiIHBvaW50MT0ic3Yw
+      MSIgcG9pbnQyPSJzaDAxIiBzdGVtPSJZOiAzMCIvPgogICAgPHR0YyBjb2RlPSJzaW5n
+      bGV2IiBwb2ludDE9ImF0MDEiIHBvaW50Mj0ic2gwMiIgc3RlbT0iWTogMzAiLz4KICA8
+      L3R0UHJvZ3JhbT4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

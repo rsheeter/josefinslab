@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="219"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="99" y="-232" type="line" name="ah01"/>
+      <point x="229" y="700" type="line" name="sh01"/>
+      <point x="243" y="700" type="line" name="sh03"/>
+      <point x="113" y="-232" type="line" name="sh02"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAx
+      IiBwb2ludDI9InNoMDEiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJh
+      aDAxIiBwb2ludDI9InNoMDIiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9
+      InNoMDIiIGRlbHRhPSI0IiBwcG0xPSI5IiBwcG0yPSI5Ii8+CiAgICA8dHRjIGNvZGU9
+      Im1kZWx0YWgiIHBvaW50PSJzaDAyIiBkZWx0YT0iMiIgcHBtMT0iMTAiIHBwbTI9IjQ0
+      Ii8+CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0ic2gwMiIgcG9pbnQyPSJz
+      aDAzIi8+CiAgICA8dHRjIGNvZGU9ImFsaWdudiIgcG9pbnQ9InNoMDIiIGFsaWduPSJy
+      b3VuZCIvPgogICAgPHR0YyBjb2RlPSJhbGlnbnQiIHBvaW50PSJzaDAxIiB6b25lPSJ0
+      OiAyIi8+CiAgPC90dFByb2dyYW0+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

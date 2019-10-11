@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="200"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" yScale="-0.999939" yOffset="540"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJh
+bGlnbnYiIHBvaW50PSJsc2IiIGFsaWduPSJyb3Vu
+ZCIvPgogICAgPHR0YyBjb2RlPSJzaW5nbGV2IiBw
+b2ludDE9ImxzYiIgcG9pbnQyPSIiLz4KICA8L3R0
+UHJvZ3JhbT4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

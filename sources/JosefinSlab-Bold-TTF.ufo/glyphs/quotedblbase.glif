@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="341"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="60" y="-53" type="qcurve" name="sv01"/>
+      <point x="49" y="-47"/>
+      <point x="30" y="-35"/>
+      <point x="19" y="-29" type="qcurve" name="sh02"/>
+      <point x="40" y="-9"/>
+      <point x="59" y="50"/>
+      <point x="52" y="85" type="qcurve" name="sh03"/>
+      <point x="65" y="87"/>
+      <point x="91" y="90"/>
+      <point x="104" y="92" type="qcurve" name="sh01"/>
+      <point x="112" y="50"/>
+      <point x="88" y="-25"/>
+    </contour>
+    <contour>
+      <point x="164" y="-53" type="qcurve" name="sv02"/>
+      <point x="153" y="-47"/>
+      <point x="134" y="-35"/>
+      <point x="123" y="-29" type="qcurve" name="sh04"/>
+      <point x="144" y="-9"/>
+      <point x="163" y="50"/>
+      <point x="156" y="85" type="qcurve" name="sh05"/>
+      <point x="169" y="87"/>
+      <point x="195" y="90"/>
+      <point x="208" y="92" type="qcurve" name="ah01"/>
+      <point x="216" y="50"/>
+      <point x="192" y="-25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFoMDEi
+      IGRlbHRhPSI4IiBwcG0xPSIxNCIgcHBtMj0iMTQiLz4KICAgIDx0dGMgY29kZT0ibWRl
+      bHRhaCIgcG9pbnQ9ImFoMDEiIGRlbHRhPSI4IiBwcG0xPSIxMCIgcHBtMj0iMTIiLz4K
+      ICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJhaDAxIiBwb2ludDI9InNoMDEi
+      IHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0YWgiIHBvaW50PSJzaDAx
+      IiBkZWx0YT0iLTgiIHBwbTE9IjEwIiBwcG0yPSIxNCIvPgogICAgPHR0YyBjb2RlPSJz
+      aW5nbGVoIiBwb2ludDE9InNoMDEiIHBvaW50Mj0ic2gwMiIgcm91bmQ9InRydWUiLz4K
+      ICAgIDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJzaDAxIiBwb2ludDI9InNoMDMi
+      IHJvdW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0iYWgw
+      MSIgcG9pbnQyPSJzaDA0IiByb3VuZD0idHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJzaW5n
+      bGVoIiBwb2ludDE9ImFoMDEiIHBvaW50Mj0ic2gwNSIgcm91bmQ9InRydWUiLz4KICAg
+      IDx0dGMgY29kZT0iYWxpZ252IiBwb2ludD0ic2gwMSIgYWxpZ249InJvdW5kIi8+CiAg
+      ICA8dHRjIGNvZGU9InNpbmdsZXYiIHBvaW50MT0ic2gwMSIgcG9pbnQyPSJzdjAxIiBy
+      b3VuZD0idHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBwb2ludD0ic3YwMSIg
+      ZGVsdGE9Ii04IiBwcG0xPSI5IiBwcG0yPSIxMCIvPgogICAgPHR0YyBjb2RlPSJzaW5n
+      bGV2IiBwb2ludDE9InN2MDEiIHBvaW50Mj0ic3YwMiIvPgogICAgPHR0YyBjb2RlPSJz
+      aW5nbGV2IiBwb2ludDE9InNoMDEiIHBvaW50Mj0iYWgwMSIvPgogIDwvdHRQcm9ncmFt
+      Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

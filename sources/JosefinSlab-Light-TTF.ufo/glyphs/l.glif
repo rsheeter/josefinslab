@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="254"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="35" y="27" type="line" name="sh01"/>
+      <point x="108" y="27" type="line" name="dh01"/>
+      <point x="108" y="723" type="line"/>
+      <point x="36" y="723" type="line" name="sh02"/>
+      <point x="36" y="750" type="line" name="at01"/>
+      <point x="136" y="750" type="line"/>
+      <point x="136" y="27" type="line" name="dh02"/>
+      <point x="219" y="27" type="line" name="sh03"/>
+      <point x="219" y="0" type="line"/>
+      <point x="35" y="0" type="line" name="ab01"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJkb3VibGVoIiBwb2ludDE9ImRoMDEi
+      IHBvaW50Mj0iZGgwMiIgc3RlbT0iWDogMjgiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRh
+      aCIgcG9pbnQ9ImRoMDEiIGRlbHRhPSI4IiBwcG0xPSIxNiIgcHBtMj0iMTYiLz4KICAg
+      IDx0dGMgY29kZT0ic2luZ2xlaCIgcG9pbnQxPSJkaDAxIiBwb2ludDI9InNoMDEiIHJv
+      dW5kPSJ0cnVlIi8+CiAgICA8dHRjIGNvZGU9InNpbmdsZWgiIHBvaW50MT0iZGgwMSIg
+      cG9pbnQyPSJzaDAyIiByb3VuZD0idHJ1ZSIvPgogICAgPHR0YyBjb2RlPSJtZGVsdGFo
+      IiBwb2ludD0iZGgwMiIgZGVsdGE9IjgiIHBwbTE9IjE2IiBwcG0yPSIxNiIvPgogICAg
+      PHR0YyBjb2RlPSJzaW5nbGVoIiBwb2ludDE9ImRoMDIiIHBvaW50Mj0ic2gwMyIgcm91
+      bmQ9InRydWUiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9InNoMDMiIGRl
+      bHRhPSItOCIgcHBtMT0iMTgiIHBwbTI9IjIwIi8+CiAgICA8dHRjIGNvZGU9Im1kZWx0
+      YWgiIHBvaW50PSJyc2IiIGRlbHRhPSItOCIgcHBtMT0iMTQiIHBwbTI9IjE0Ii8+CiAg
+      ICA8dHRjIGNvZGU9ImFsaWdudCIgcG9pbnQ9ImF0MDEiIHpvbmU9InQ6IDMiLz4KICAg
+      IDx0dGMgY29kZT0iYWxpZ25iIiBwb2ludD0iYWIwMSIgem9uZT0iYjogMCIvPgogICAg
+      PHR0YyBjb2RlPSJzaW5nbGV2IiBwb2ludDE9ImFiMDEiIHBvaW50Mj0ic2gwMSIgc3Rl
+      bT0iWTogMjgiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQxPSJhdDAxIiBw
+      b2ludDI9InNoMDIiIHN0ZW09Ilk6IDI4Ii8+CiAgICA8dHRjIGNvZGU9InNpbmdsZXYi
+      IHBvaW50MT0ic2gwMSIgcG9pbnQyPSJkaDAyIi8+CiAgPC90dFByb2dyYW0+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

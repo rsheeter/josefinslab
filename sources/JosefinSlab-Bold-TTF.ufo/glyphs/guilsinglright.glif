@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="392"/>
+  <unicode hex="203A"/>
+  <outline>
+    <component base="guilsinglleft" xScale="-0.999939" xOffset="405"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0icnNiIiBkZWx0YT0iLTgi
+IHBwbTE9IjExIiBwcG0yPSIxMyIvPgogIDwvdHRQ
+cm9ncmFtPgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

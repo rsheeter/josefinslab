@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="571"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <component base="E"/>
+    <component base="asciicircum" xOffset="179" yOffset="271"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttprogram</key>
+  <data>
+ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJt
+ZGVsdGFoIiBwb2ludD0iIiBkZWx0YT0iOCIgcHBt
+MT0iMjQiIHBwbTI9IjI1Ii8+CiAgICA8dHRjIGNv
+ZGU9Im1kZWx0YXYiIHBvaW50PSIiIGRlbHRhPSI4
+IiBwcG0xPSIxMSIgcHBtMj0iMTEiLz4KICAgIDx0
+dGMgY29kZT0ibWRlbHRhdiIgcG9pbnQ9IiIgZGVs
+dGE9IjgiIHBwbTE9IjIyIiBwcG0yPSIyMiIvPgog
+ICAgPHR0YyBjb2RlPSJtZGVsdGF2IiBwb2ludD0i
+IiBkZWx0YT0iOCIgcHBtMT0iMTQiIHBwbTI9IjE2
+Ii8+CiAgPC90dFByb2dyYW0+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

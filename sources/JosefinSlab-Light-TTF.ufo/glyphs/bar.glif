@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="229"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="97" y="-232" type="line" name="dh01"/>
+      <point x="97" y="700" type="line" name="at01"/>
+      <point x="125" y="700" type="line"/>
+      <point x="125" y="-232" type="line" name="dh02"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJkb3VibGVoIiBwb2ludDE9ImRoMDEi
+      IHBvaW50Mj0iZGgwMiIgc3RlbT0iWDogMjgiLz4KICAgIDx0dGMgY29kZT0iYWxpZ252
+      IiBwb2ludD0iZGgwMSIgYWxpZ249InJvdW5kIi8+CiAgICA8dHRjIGNvZGU9ImFsaWdu
+      dCIgcG9pbnQ9ImF0MDEiIHpvbmU9InQ6IDIiLz4KICA8L3R0UHJvZ3JhbT4K
+      </data>
+    </dict>
+  </lib>
+</glyph>

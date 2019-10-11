@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="163"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="33" y="52" type="qcurve" name="ah01"/>
+      <point x="33" y="75"/>
+      <point x="65" y="105"/>
+      <point x="85" y="105" type="qcurve" name="sv01"/>
+      <point x="104" y="105"/>
+      <point x="136" y="75"/>
+      <point x="136" y="52" type="qcurve" name="sh01"/>
+      <point x="136" y="29"/>
+      <point x="104" y="0"/>
+      <point x="85" y="0" type="qcurve" name="ab01"/>
+      <point x="65" y="0"/>
+      <point x="33" y="29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      ICA8dHRQcm9ncmFtPgogICAgPHR0YyBjb2RlPSJhbGlnbmgiIHBvaW50PSJhaDAxIiBh
+      bGlnbj0icm91bmQiLz4KICAgIDx0dGMgY29kZT0ibWRlbHRhaCIgcG9pbnQ9ImFoMDEi
+      IGRlbHRhPSItOCIgcHBtMT0iMTUiIHBwbTI9IjE1Ii8+CiAgICA8dHRjIGNvZGU9InNp
+      bmdsZWgiIHBvaW50MT0iYWgwMSIgcG9pbnQyPSJzaDAxIiByb3VuZD0idHJ1ZSIvPgog
+      ICAgPHR0YyBjb2RlPSJtZGVsdGFoIiBwb2ludD0ic2gwMSIgZGVsdGE9Ii04IiBwcG0x
+      PSIxNSIgcHBtMj0iMTYiLz4KICAgIDx0dGMgY29kZT0iYWxpZ25iIiBwb2ludD0iYWIw
+      MSIgem9uZT0iYjAiLz4KICAgIDx0dGMgY29kZT0ic2luZ2xldiIgcG9pbnQxPSJhYjAx
+      IiBwb2ludDI9InN2MDEiIHJvdW5kPSJ0cnVlIi8+CiAgPC90dFByb2dyYW0+Cg==
+      </data>
+    </dict>
+  </lib>
+</glyph>
