@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="596"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="371" y="499" type="qcurve"/>
+      <point x="357" y="516"/>
+      <point x="336" y="527"/>
+      <point x="322" y="527" type="qcurve"/>
+      <point x="314" y="527"/>
+      <point x="295" y="523"/>
+      <point x="276" y="512"/>
+      <point x="260" y="492"/>
+      <point x="257" y="477" type="qcurve"/>
+      <point x="224" y="479" type="line"/>
+      <point x="227" y="499"/>
+      <point x="248" y="529"/>
+      <point x="276" y="550"/>
+      <point x="307" y="560"/>
+      <point x="322" y="560" type="qcurve"/>
+      <point x="345" y="560"/>
+      <point x="378" y="542"/>
+      <point x="392" y="525" type="qcurve"/>
+      <point x="406" y="508"/>
+      <point x="428" y="497"/>
+      <point x="442" y="497" type="qcurve"/>
+      <point x="449" y="497"/>
+      <point x="469" y="501"/>
+      <point x="488" y="512"/>
+      <point x="503" y="532"/>
+      <point x="507" y="547" type="qcurve"/>
+      <point x="540" y="545" type="line"/>
+      <point x="536" y="525"/>
+      <point x="516" y="495"/>
+      <point x="488" y="474"/>
+      <point x="456" y="464"/>
+      <point x="441" y="464" type="qcurve"/>
+      <point x="419" y="464"/>
+      <point x="385" y="483"/>
+    </contour>
+  </outline>
+</glyph>

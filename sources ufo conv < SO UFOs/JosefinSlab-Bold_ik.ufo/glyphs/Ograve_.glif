@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="817"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="36" y="363" type="qcurve"/>
+      <point x="36" y="439"/>
+      <point x="95" y="575"/>
+      <point x="196" y="677"/>
+      <point x="331" y="737"/>
+      <point x="408" y="737" type="qcurve"/>
+      <point x="484" y="737"/>
+      <point x="620" y="677"/>
+      <point x="722" y="575"/>
+      <point x="781" y="439"/>
+      <point x="781" y="363" type="qcurve"/>
+      <point x="781" y="286"/>
+      <point x="722" y="151"/>
+      <point x="620" y="50"/>
+      <point x="484" y="-8"/>
+      <point x="408" y="-8" type="qcurve"/>
+      <point x="331" y="-8"/>
+      <point x="196" y="50"/>
+      <point x="95" y="151"/>
+      <point x="36" y="286"/>
+    </contour>
+    <contour>
+      <point x="159" y="363" type="qcurve"/>
+      <point x="159" y="310"/>
+      <point x="198" y="217"/>
+      <point x="267" y="148"/>
+      <point x="358" y="108"/>
+      <point x="411" y="108" type="qcurve"/>
+      <point x="462" y="108"/>
+      <point x="553" y="148"/>
+      <point x="620" y="217"/>
+      <point x="659" y="310"/>
+      <point x="659" y="363" type="qcurve"/>
+      <point x="659" y="416"/>
+      <point x="619" y="509"/>
+      <point x="551" y="579"/>
+      <point x="460" y="619"/>
+      <point x="408" y="619" type="qcurve"/>
+      <point x="356" y="619"/>
+      <point x="265" y="579"/>
+      <point x="198" y="509"/>
+      <point x="159" y="416"/>
+    </contour>
+    <contour>
+      <point x="406" y="916" type="line"/>
+      <point x="429" y="882"/>
+      <point x="475" y="814"/>
+      <point x="498" y="781" type="qcurve"/>
+      <point x="426" y="781" type="line"/>
+      <point x="395" y="814"/>
+      <point x="333" y="882"/>
+      <point x="303" y="916" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
