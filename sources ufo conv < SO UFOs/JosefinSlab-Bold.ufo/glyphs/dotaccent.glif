@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="252"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="69" y="590" type="qcurve"/>
+      <point x="69" y="616"/>
+      <point x="107" y="650"/>
+      <point x="129" y="650" type="qcurve"/>
+      <point x="151" y="650"/>
+      <point x="188" y="616"/>
+      <point x="188" y="590" type="qcurve"/>
+      <point x="188" y="563"/>
+      <point x="151" y="530"/>
+      <point x="129" y="530" type="qcurve"/>
+      <point x="107" y="530"/>
+      <point x="69" y="563"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis" format="2">
+  <advance width="626"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="540" y="612" type="line"/>
+      <point x="540" y="686" type="line"/>
+      <point x="153" y="686" type="line"/>
+      <point x="153" y="360" type="line"/>
+      <point x="515" y="360" type="line"/>
+      <point x="515" y="346" type="line"/>
+      <point x="153" y="346" type="line"/>
+      <point x="153" y="14" type="line"/>
+      <point x="554" y="14" type="line"/>
+      <point x="554" y="89" type="line"/>
+      <point x="568" y="89" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="63" y="14" type="line"/>
+      <point x="139" y="14" type="line"/>
+      <point x="139" y="686" type="line"/>
+      <point x="63" y="686" type="line"/>
+      <point x="63" y="700" type="line"/>
+      <point x="540" y="700" type="line"/>
+      <point x="540" y="701" type="line"/>
+      <point x="554" y="701" type="line"/>
+      <point x="554" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="755" type="qcurve"/>
+      <point x="252" y="763"/>
+      <point x="264" y="775"/>
+      <point x="272" y="775" type="qcurve"/>
+      <point x="280" y="775"/>
+      <point x="292" y="763"/>
+      <point x="292" y="755" type="qcurve"/>
+      <point x="292" y="747"/>
+      <point x="280" y="735"/>
+      <point x="272" y="735" type="qcurve"/>
+      <point x="264" y="735"/>
+      <point x="252" y="747"/>
+    </contour>
+    <contour>
+      <point x="417" y="755" type="qcurve"/>
+      <point x="417" y="763"/>
+      <point x="429" y="775"/>
+      <point x="437" y="775" type="qcurve"/>
+      <point x="445" y="775"/>
+      <point x="457" y="763"/>
+      <point x="457" y="755" type="qcurve"/>
+      <point x="457" y="747"/>
+      <point x="445" y="735"/>
+      <point x="437" y="735" type="qcurve"/>
+      <point x="429" y="735"/>
+      <point x="417" y="747"/>
+    </contour>
+  </outline>
+</glyph>
