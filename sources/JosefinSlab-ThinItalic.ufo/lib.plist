@@ -3,7 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>com.typemytype.robofont.binarySource</key>
-	<string>/Users/pichotta/Masters FB/***RETAIL DEVELOPMENT MASTERS/TN Font DEV/GGL TN VFweightUpgrades FORKED/josefinslab/JosefinSlab-BoldItalic.ttf</string>
+	<string>/Users/pichotta/Masters FB/***RETAIL DEVELOPMENT MASTERS/TN Font DEV/GGL TN VFweightUpgrades FORKED/josefinslab/JosefinSlab-ThinItalic.ttf</string>
+	<key>com.typemytype.robofont.layerOrder</key>
+	<array>
+	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>qcurve</string>
 	<key>com.typemytype.robofont.sort</key>
@@ -11,6 +14,7 @@
 		<dict>
 			<key>ascending</key>
 			<array>
+				<string>space</string>
 				<string>A</string>
 				<string>B</string>
 				<string>C</string>
@@ -126,6 +130,7 @@
 				<string>iacute</string>
 				<string>icircumflex</string>
 				<string>idieresis</string>
+				<string>dotlessi</string>
 				<string>ntilde</string>
 				<string>ograve</string>
 				<string>oacute</string>
@@ -207,9 +212,11 @@
 				<string>acute</string>
 				<string>grave</string>
 				<string>dieresis</string>
+				<string>ring</string>
 				<string>macron</string>
 				<string>cedilla</string>
-				<string>space</string>
+				<string>uni00A0</string>
+				<string>uni00AD</string>
 				<string>mu</string>
 				<string>nonmarkingreturn</string>
 				<string>.null</string>
@@ -221,6 +228,7 @@
 	</array>
 	<key>public.glyphOrder</key>
 	<array>
+		<string>space</string>
 		<string>A</string>
 		<string>B</string>
 		<string>C</string>
@@ -336,6 +344,7 @@
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>dotlessi</string>
 		<string>ntilde</string>
 		<string>ograve</string>
 		<string>oacute</string>
@@ -417,9 +426,11 @@
 		<string>acute</string>
 		<string>grave</string>
 		<string>dieresis</string>
+		<string>ring</string>
 		<string>macron</string>
 		<string>cedilla</string>
-		<string>space</string>
+		<string>uni00A0</string>
+		<string>uni00AD</string>
 		<string>mu</string>
 		<string>nonmarkingreturn</string>
 		<string>.null</string>

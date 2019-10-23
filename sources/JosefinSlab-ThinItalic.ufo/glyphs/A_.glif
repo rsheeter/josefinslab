@@ -31,9 +31,8 @@
     <contour>
       <point x="517" y="675" type="line"/>
       <point x="512" y="700" type="line"/>
-      <point x="505" y="686" type="line"/>
-      <point x="503.5" y="683.5" name="inserted"/>
-      <point x="500.5" y="678.0"/>
+      <point x="506.02985074626866" y="688.0597014925373" name="inserted"/>
+      <point x="500.1194029850746" y="677.2388059701492"/>
       <point x="499" y="675" type="qcurve" smooth="yes"/>
       <point x="453" y="587"/>
       <point x="354" y="417"/>
