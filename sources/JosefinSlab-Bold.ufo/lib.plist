@@ -17,6 +17,7 @@
 				<string>.notdef</string>
 				<string>.null</string>
 				<string>nonmarkingreturn</string>
+				<string>space</string>
 				<string>exclam</string>
 				<string>quotedbl</string>
 				<string>numbersign</string>
@@ -111,7 +112,7 @@
 				<string>bar</string>
 				<string>braceright</string>
 				<string>asciitilde</string>
-				<string>space</string>
+				<string>uni00A0</string>
 				<string>exclamdown</string>
 				<string>cent</string>
 				<string>sterling</string>
@@ -124,6 +125,7 @@
 				<string>ordfeminine</string>
 				<string>guillemotleft</string>
 				<string>logicalnot</string>
+				<string>uni00AD</string>
 				<string>registered</string>
 				<string>macron</string>
 				<string>degree</string>
@@ -229,6 +231,7 @@
 		<string>.notdef</string>
 		<string>.null</string>
 		<string>nonmarkingreturn</string>
+		<string>space</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -323,7 +326,7 @@
 		<string>bar</string>
 		<string>braceright</string>
 		<string>asciitilde</string>
-		<string>space</string>
+		<string>uni00A0</string>
 		<string>exclamdown</string>
 		<string>cent</string>
 		<string>sterling</string>
@@ -336,6 +339,7 @@
 		<string>ordfeminine</string>
 		<string>guillemotleft</string>
 		<string>logicalnot</string>
+		<string>uni00AD</string>
 		<string>registered</string>
 		<string>macron</string>
 		<string>degree</string>
