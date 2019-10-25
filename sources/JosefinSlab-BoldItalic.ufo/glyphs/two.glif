@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="two" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two" format="2">
   <advance width="519"/>
   <unicode hex="0032"/>
   <outline>
@@ -32,11 +32,8 @@
       <point x="153.0" y="371.0"/>
       <point x="170" y="351" type="qcurve"/>
       <point x="112" y="300" type="line"/>
-      <point x="97" y="311"/>
-      <point x="75" y="348"/>
-      <point x="68.5" y="369.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="62" y="391"/>
-      <point x="58" y="436"/>
+      <point x="82.43911984908776" y="321.6779787773357"/>
+      <point x="54.909527478173715" y="416.4270073617669"/>
       <point x="61" y="455" type="qcurve" smooth="yes"/>
       <point x="67" y="495"/>
       <point x="104" y="569"/>

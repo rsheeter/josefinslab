@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="B" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
   <advance width="542"/>
   <unicode hex="0042"/>
   <outline>
@@ -57,8 +57,11 @@
       <point x="330" y="392"/>
       <point x="399" y="458"/>
       <point x="399" y="512" type="qcurve" smooth="yes"/>
-      <point x="399" y="571"/>
-      <point x="327" y="621"/>
+      <point x="399" y="543"/>
+      <point x="378" y="586"/>
+      <point x="359" y="599" type="qcurve" smooth="yes"/>
+      <point x="342" y="610"/>
+      <point x="296" y="621"/>
       <point x="269" y="621" type="qcurve" smooth="yes"/>
     </contour>
   </outline>

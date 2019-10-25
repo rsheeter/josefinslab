@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="asterisk" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
   <advance width="335"/>
   <unicode hex="002A"/>
   <outline>
@@ -11,7 +11,9 @@
       <point x="282" y="507"/>
       <point x="276" y="500"/>
       <point x="273" y="496" type="qcurve"/>
-      <point x="171" y="562" type="line"/>
+      <point x="239" y="518"/>
+      <point x="205" y="540"/>
+      <point x="171" y="562" type="qcurve"/>
       <point x="166" y="530"/>
       <point x="156" y="466"/>
       <point x="151" y="434" type="qcurve"/>
@@ -20,27 +22,23 @@
       <point x="125" y="545"/>
       <point x="66" y="514"/>
       <point x="36" y="498" type="qcurve"/>
-      <point x="30" y="513" type="line"/>
+      <point x="34" y="503"/>
+      <point x="32" y="508"/>
+      <point x="30" y="513" type="qcurve"/>
       <point x="59" y="529"/>
       <point x="119" y="560"/>
       <point x="149" y="576" type="qcurve"/>
       <point x="123" y="593"/>
       <point x="74" y="625"/>
       <point x="48" y="642" type="qcurve"/>
-      <point x="50" y="645"/>
-      <point x="54" y="651"/>
-      <point x="56" y="654" type="qcurve"/>
+      <point x="56" y="654" type="line"/>
       <point x="82" y="637"/>
       <point x="133" y="606"/>
       <point x="159" y="589" type="qcurve"/>
       <point x="178" y="720" type="line"/>
       <point x="196" y="720" type="line"/>
-      <point x="190" y="687"/>
-      <point x="180" y="622"/>
-      <point x="175" y="589" type="qcurve"/>
-      <point x="206" y="605"/>
-      <point x="267" y="637"/>
-      <point x="298" y="653" type="qcurve"/>
+      <point x="175" y="589" type="line"/>
+      <point x="298" y="653" type="line"/>
       <point x="300.0" y="649.0" name="inserted"/>
       <point x="302.5" y="643.0"/>
       <point x="303" y="641" type="qcurve"/>
