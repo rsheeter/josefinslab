@@ -11,7 +11,9 @@
       <point x="170" y="100" type="line"/>
       <point x="170" y="114" type="line"/>
       <point x="330" y="114" type="line"/>
-      <point x="330" y="263" type="line"/>
+      <point x="330.0" y="114.0" name="inserted"/>
+      <point x="330.0" y="263.0"/>
+      <point x="330" y="263" type="qcurve"/>
       <point x="170" y="263" type="line"/>
       <point x="170" y="277" type="line"/>
       <point x="321" y="277" type="line"/>
