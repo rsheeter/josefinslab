@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0" maximum="1000" minimum="0" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="Josefin Slab" filename="JosefinSlab-Thin.ufo" stylename="Thin">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Josefin Slab" filename="JosefinSlab-Bold.ufo" stylename="Bold">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Josefin Slab" filename="instances/JosefinSlab-Instance.ufo" postscriptfontname="JosefinSlab-Instance" stylename="Instance">
+            <location>
+                <dimension name="weight" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
