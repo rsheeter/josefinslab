@@ -13,8 +13,8 @@ rm -rf ../fonts
 echo "Generating Static fonts"
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m JosefinSlab.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m JosefinSlab-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m JosefinSlab.designspace -i -o ttf --output-dir ../fonts/ttf/  --overlaps-backend pathops
+fontmake -m JosefinSlab-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/ --overlaps-backend pathops
 
 echo "Generating VFs"
 fontmake -m JosefinSlab.designspace -o variable --output-path ../fonts/variable/JosefinSlab[wght].ttf
