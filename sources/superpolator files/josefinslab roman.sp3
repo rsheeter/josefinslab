@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/pichotta/TN_Font_DEV/GGL_TN_VFweightUpgrade_FORKED/josefinslab/sources/superpolator files/instances"/>
+    <data name="previewtext" value="HBInhli"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="weight" shortname="wght">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Josefin Slab" filename="../sources/JosefinSlab-Thin.ufo" sortorder="0" stylename="Thin">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Josefin Slab" filename="../sources/JosefinSlab-Bold.ufo" sortorder="1" stylename="Bold">
+        <location>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Josefin Slab" filename="instances/JosefinSlab-light205.ufo" sortorder="2" stylename="light 205">
+        <location>
+            <dimension name="weight" xvalue="205.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Josefin Slab" filename="instances/JosefinSlab-regular400.ufo" sortorder="3" stylename="regular 400">
+        <location>
+            <dimension name="weight" xvalue="400.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Josefin Slab" filename="instances/JosefinSlab-semibold695.ufo" sortorder="4" stylename="semibold 695">
+        <location>
+            <dimension name="weight" xvalue="695.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>
