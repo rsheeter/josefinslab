@@ -434,6 +434,16 @@
       <string>bullet</string>
       <string>guilsinglleft</string>
       <string>guilsinglright</string>
+      <string>OE</string>
+      <string>oe</string>
+      <string>circumflex</string>
+      <string>tilde</string>
+      <string>ellipsis</string>
+      <string>fraction</string>
+      <string>foursuperior</string>
+      <string>Euro</string>
+      <string>minus</string>
+      <string>divisionslash</string>
     </array>
   </dict>
 </plist>

@@ -434,6 +434,16 @@
       <string>guillemotleft</string>
       <string>mu</string>
       <string>uni00A0</string>
+      <string>OE</string>
+      <string>oe</string>
+      <string>circumflex</string>
+      <string>tilde</string>
+      <string>ellipsis</string>
+      <string>fraction</string>
+      <string>foursuperior</string>
+      <string>Euro</string>
+      <string>minus</string>
+      <string>divisionslash</string>
     </array>
   </dict>
 </plist>
