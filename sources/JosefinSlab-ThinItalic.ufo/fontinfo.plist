@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>700</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2010 by Typemade. All rights reserved.</string>
+    <string>Copyright 2010 Typemade. All rights reserved.</string>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
@@ -146,7 +146,7 @@
     <key>styleName</key>
     <string>Thin Italic</string>
     <key>trademark</key>
-    <string>Josefin Slab Thin Italic is a trademark of Typemade.</string>
+    <string>Josefin Slab is a trademark of Typemade.</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
