@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>700</integer>
     <key>copyright</key>
-    <string>Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/)</string>
+    <string>Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.</string>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
@@ -43,7 +43,7 @@
     <key>openTypeNameDesignerURL</key>
     <string>www.typemade.mx</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2010, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Josefin. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
