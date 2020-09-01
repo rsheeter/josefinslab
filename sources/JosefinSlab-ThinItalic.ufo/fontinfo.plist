@@ -15,7 +15,7 @@
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
-    <real>0.0</real>
+    <integer>-12</integer>
     <key>openTypeHeadCreated</key>
     <string>2011/06/16 10:22:29</string>
     <key>openTypeHeadFlags</key>
