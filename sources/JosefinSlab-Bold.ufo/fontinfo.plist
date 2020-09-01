@@ -48,10 +48,6 @@
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Typemade</string>
-    <key>openTypeNameUniqueID</key>
-    <string>1.001;UKWN;JosefinSlab-Bold</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.001</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>

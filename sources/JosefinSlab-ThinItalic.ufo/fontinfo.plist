@@ -48,14 +48,6 @@
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Typemade</string>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>Josefin Slab</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Thin Italic</string>
-    <key>openTypeNameUniqueID</key>
-    <string>1.001;UKWN;JosefinSlab-ThinItalic</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.001</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
