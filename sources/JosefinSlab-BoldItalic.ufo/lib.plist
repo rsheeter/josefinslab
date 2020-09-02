@@ -449,15 +449,17 @@
       <string>acute</string>
       <string>macron</string>
       <string>dieresis</string>
+      <string>ring</string>
       <string>cedilla</string>
       <string>.null</string>
       <string>guillemotright</string>
       <string>nonmarkingreturn</string>
+      <string>dotlessi</string>
       <string>.notdef</string>
+      <string>uni00AD</string>
       <string>guillemotleft</string>
       <string>mu</string>
-      <string>ring</string>
-      <string>dotlessi</string>
+      <string>uni00A0</string>
       <string>OE</string>
       <string>oe</string>
       <string>circumflex</string>
@@ -470,8 +472,19 @@
       <string>divisionslash</string>
     </array>
     <key>public.postscriptNames</key>
-    <dict/>
-    <key>public.skipExportGlyphs</key>
-    <array/>
+    <dict>
+      <key>divisionslash</key>
+      <string>uni2215</string>
+      <key>foursuperior</key>
+      <string>uni2074</string>
+      <key>mu</key>
+      <string>uni03BC</string>
+      <key>onesuperior</key>
+      <string>uni00B9</string>
+      <key>threesuperior</key>
+      <string>uni00B3</string>
+      <key>twosuperior</key>
+      <string>uni00B2</string>
+    </dict>
   </dict>
 </plist>

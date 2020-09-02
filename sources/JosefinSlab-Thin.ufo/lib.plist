@@ -462,8 +462,19 @@
       <string>divisionslash</string>
     </array>
     <key>public.postscriptNames</key>
-    <dict/>
-    <key>public.skipExportGlyphs</key>
-    <array/>
+    <dict>
+      <key>divisionslash</key>
+      <string>uni2215</string>
+      <key>foursuperior</key>
+      <string>uni2074</string>
+      <key>mu</key>
+      <string>uni03BC</string>
+      <key>onesuperior</key>
+      <string>uni00B9</string>
+      <key>threesuperior</key>
+      <string>uni00B3</string>
+      <key>twosuperior</key>
+      <string>uni00B2</string>
+    </dict>
   </dict>
 </plist>
