@@ -48,7 +48,7 @@
       <point x="217" y="148" type="qcurve" smooth="yes"/>
       <point x="150" y="258" type="line" smooth="yes" name="inserted"/>
       <point x="135" y="283" name="inserted"/>
-      <point x="117.0" y="333.29411764705884"/>
+      <point x="117" y="333.29412"/>
       <point x="117" y="358" type="qcurve" smooth="yes"/>
       <point x="117" y="383"/>
       <point x="133" y="432"/>

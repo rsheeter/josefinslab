@@ -15,14 +15,14 @@
       <point x="96" y="518" type="line" smooth="yes"/>
       <point x="96" y="573"/>
       <point x="125" y="659"/>
-      <point x="150.5" y="688.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="150.5" y="688" type="qcurve" smooth="yes" name="inserted"/>
       <point x="176" y="717"/>
       <point x="243" y="748"/>
       <point x="281" y="750" type="qcurve"/>
       <point x="281" y="736" type="line"/>
       <point x="247" y="736"/>
       <point x="185" y="706"/>
-      <point x="161.5" y="678.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="161.5" y="678" type="qcurve" smooth="yes" name="inserted"/>
       <point x="138" y="650"/>
       <point x="110" y="571"/>
       <point x="110" y="522" type="qcurve" smooth="yes"/>

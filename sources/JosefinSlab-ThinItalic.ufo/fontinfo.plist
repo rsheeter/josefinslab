@@ -7,15 +7,13 @@
     <key>capHeight</key>
     <integer>700</integer>
     <key>copyright</key>
-    <string>Copyright 2010 Typemade. All rights reserved.</string>
+    <string>Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.</string>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
     <string>Josefin Slab</string>
-    <key>guidelines</key>
-    <array/>
     <key>italicAngle</key>
-    <real>0.0</real>
+    <integer>-12</integer>
     <key>openTypeHeadCreated</key>
     <string>2011/06/16 10:22:29</string>
     <key>openTypeHeadFlags</key>
@@ -27,7 +25,7 @@
     <key>openTypeHeadLowestRecPPEM</key>
     <integer>9</integer>
     <key>openTypeHheaAscender</key>
-    <integer>931</integer>
+    <integer>932</integer>
     <key>openTypeHheaCaretOffset</key>
     <integer>0</integer>
     <key>openTypeHheaCaretSlopeRise</key>
@@ -43,19 +41,11 @@
     <key>openTypeNameDesignerURL</key>
     <string>www.typemade.mx</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2010, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Josefin. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Typemade</string>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>Josefin Slab</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Thin Italic</string>
-    <key>openTypeNameUniqueID</key>
-    <string>1.001;UKWN;JosefinSlab-ThinItalic</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.001</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -100,7 +90,7 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>931</integer>
+    <integer>932</integer>
     <key>openTypeOS2TypoDescender</key>
     <integer>-250</integer>
     <key>openTypeOS2TypoLineGap</key>
@@ -118,23 +108,11 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>931</integer>
+    <integer>932</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>250</integer>
-    <key>postscriptBlueValues</key>
-    <array/>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
     <key>postscriptIsFixedPitch</key>
     <false/>
-    <key>postscriptOtherBlues</key>
-    <array/>
-    <key>postscriptStemSnapH</key>
-    <array/>
-    <key>postscriptStemSnapV</key>
-    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-75</integer>
     <key>postscriptUnderlineThickness</key>
@@ -150,9 +128,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>500</integer>
   </dict>

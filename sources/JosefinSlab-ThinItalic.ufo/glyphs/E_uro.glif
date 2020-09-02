@@ -19,7 +19,7 @@
       <point x="496" y="634" name="inserted"/>
       <point x="451" y="644"/>
       <point x="426" y="644" type="qcurve"/>
-      <point x="366" y="644.0"/>
+      <point x="366" y="644"/>
       <point x="270" y="598"/>
       <point x="237" y="562" type="qcurve" smooth="yes"/>
       <point x="206" y="529"/>

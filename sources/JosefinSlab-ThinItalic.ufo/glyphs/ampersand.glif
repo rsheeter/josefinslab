@@ -11,7 +11,7 @@
       <point x="480" y="274" type="line" smooth="yes"/>
       <point x="477" y="249"/>
       <point x="471" y="200"/>
-      <point x="465.5" y="176.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="465.5" y="176" type="qcurve" smooth="yes" name="inserted"/>
       <point x="460" y="152"/>
       <point x="440" y="106"/>
       <point x="424" y="84" type="qcurve"/>
@@ -23,13 +23,13 @@
       <point x="246" y="-7" type="qcurve" smooth="yes"/>
       <point x="209" y="-7"/>
       <point x="147" y="18"/>
-      <point x="124.5" y="40.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="124.5" y="40" type="qcurve" smooth="yes" name="inserted"/>
       <point x="102" y="62"/>
       <point x="77" y="123"/>
       <point x="77" y="158" type="qcurve" smooth="yes"/>
       <point x="77" y="199"/>
       <point x="107" y="274"/>
-      <point x="133.5" y="303.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="133.5" y="303" type="qcurve" smooth="yes" name="inserted"/>
       <point x="160" y="332"/>
       <point x="230" y="372"/>
       <point x="269" y="379" type="qcurve"/>
@@ -39,7 +39,7 @@
       <point x="196" y="572" type="qcurve" smooth="yes"/>
       <point x="196" y="600"/>
       <point x="220" y="662"/>
-      <point x="243.0" y="688.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="243" y="688" type="qcurve" smooth="yes" name="inserted"/>
       <point x="266" y="714"/>
       <point x="333" y="748"/>
       <point x="377" y="748" type="qcurve" smooth="yes"/>
@@ -52,25 +52,25 @@
       <point x="373" y="736" type="qcurve" smooth="yes"/>
       <point x="334" y="736"/>
       <point x="272" y="703"/>
-      <point x="251.0" y="678.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="251" y="678.5" type="qcurve" smooth="yes" name="inserted"/>
       <point x="230" y="654"/>
       <point x="208" y="597"/>
       <point x="208" y="574" type="qcurve" smooth="yes"/>
-      <point x="208.0" y="556.0" name="inserted"/>
-      <point x="216.5" y="521.0"/>
+      <point x="208" y="556" name="inserted"/>
+      <point x="216.5" y="521"/>
       <point x="225" y="504" type="qcurve" smooth="yes"/>
       <point x="417" y="98" type="line"/>
-      <point x="431.5" y="118.0" name="inserted"/>
-      <point x="450.0" y="162.5"/>
+      <point x="431.5" y="118" name="inserted"/>
+      <point x="450" y="162.5"/>
       <point x="454" y="187" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="125.66347357054893" y="278.75197410992547"/>
-      <point x="91.0" y="202.89809848768925"/>
+      <point x="125.66347" y="278.75197"/>
+      <point x="91" y="202.8981"/>
       <point x="91" y="163" type="qcurve" smooth="yes"/>
       <point x="91" y="130"/>
       <point x="114" y="73"/>
-      <point x="135.0" y="52.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="135" y="52" type="qcurve" smooth="yes" name="inserted"/>
       <point x="156" y="31"/>
       <point x="213" y="7"/>
       <point x="248" y="7" type="qcurve" smooth="yes"/>
@@ -80,7 +80,7 @@
       <point x="275" y="366" type="line"/>
       <point x="240" y="362"/>
       <point x="179" y="331"/>
-      <point x="154.5" y="307.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="154.5" y="307" type="qcurve" smooth="yes" name="inserted"/>
     </contour>
   </outline>
 </glyph>

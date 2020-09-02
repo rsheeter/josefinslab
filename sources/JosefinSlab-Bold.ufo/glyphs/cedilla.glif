@@ -6,7 +6,7 @@
     <contour>
       <point x="315" y="-142" type="qcurve" smooth="yes"/>
       <point x="315" y="-193"/>
-      <point x="261.1524567539653" y="-250.0"/>
+      <point x="261.15246" y="-250"/>
       <point x="210" y="-250" type="qcurve" smooth="yes"/>
       <point x="176" y="-250"/>
       <point x="119" y="-213"/>
@@ -22,15 +22,15 @@
       <point x="253" y="-132" type="qcurve" smooth="yes"/>
       <point x="253" y="-112"/>
       <point x="231" y="-89"/>
-      <point x="218.5" y="-80.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="218.5" y="-80" type="qcurve" smooth="yes" name="inserted"/>
       <point x="206" y="-71"/>
       <point x="184" y="-51"/>
       <point x="184" y="-34" type="qcurve" smooth="yes"/>
       <point x="184" y="0" type="line"/>
       <point x="235" y="0" type="line"/>
       <point x="235" y="-7" type="line" smooth="yes"/>
-      <point x="235.0" y="-34.809514933650036"/>
-      <point x="264.9172374697018" y="-50.931031224751486"/>
+      <point x="235" y="-34.80951"/>
+      <point x="264.91724" y="-50.93103"/>
       <point x="277" y="-61" type="qcurve" smooth="yes"/>
       <point x="298" y="-77"/>
       <point x="315" y="-117"/>

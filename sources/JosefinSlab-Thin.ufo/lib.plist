@@ -2,6 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>flattenComponents</string>
+      </dict>
+    </array>
     <key>com.typemytype.robofont.binarySource</key>
     <string>/Users/pichotta/Masters FB/***RETAIL DEVELOPMENT MASTERS/TN Font DEV/GGL TN VFweightUpgrades FORKED/josefinslab/JosefinSlab-Thin.ttf</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -462,8 +475,19 @@
       <string>divisionslash</string>
     </array>
     <key>public.postscriptNames</key>
-    <dict/>
-    <key>public.skipExportGlyphs</key>
-    <array/>
+    <dict>
+      <key>divisionslash</key>
+      <string>uni2215</string>
+      <key>foursuperior</key>
+      <string>uni2074</string>
+      <key>mu</key>
+      <string>uni03BC</string>
+      <key>onesuperior</key>
+      <string>uni00B9</string>
+      <key>threesuperior</key>
+      <string>uni00B3</string>
+      <key>twosuperior</key>
+      <string>uni00B2</string>
+    </dict>
   </dict>
 </plist>
