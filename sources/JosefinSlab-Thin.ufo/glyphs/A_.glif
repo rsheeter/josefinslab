@@ -36,8 +36,8 @@
       <point x="569" y="330" type="line"/>
       <point x="423" y="675" type="line"/>
       <point x="414" y="700" type="line"/>
-      <point x="412.5847726007313" y="697.1695452014626" name="inserted"/>
-      <point x="408.40831891575846" y="685.2249567472755"/>
+      <point x="412.58477" y="697.16955" name="inserted"/>
+      <point x="408.40832" y="685.22496"/>
     </contour>
   </outline>
 </glyph>

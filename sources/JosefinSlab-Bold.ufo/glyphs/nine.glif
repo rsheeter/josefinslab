@@ -4,19 +4,19 @@
   <unicode hex="0039"/>
   <outline>
     <contour>
-      <point x="149.5" y="324.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="149.5" y="324" type="qcurve" smooth="yes" name="inserted"/>
       <point x="168" y="306"/>
       <point x="217" y="285"/>
       <point x="245" y="285" type="qcurve" smooth="yes"/>
       <point x="272" y="285"/>
       <point x="320" y="306"/>
-      <point x="338.0" y="324.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="338" y="324" type="qcurve" smooth="yes" name="inserted"/>
       <point x="356" y="342"/>
       <point x="376" y="391"/>
       <point x="376" y="419" type="qcurve" smooth="yes"/>
       <point x="376" y="447"/>
       <point x="356" y="496"/>
-      <point x="338.0" y="514.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="338" y="514.5" type="qcurve" smooth="yes" name="inserted"/>
       <point x="320" y="533"/>
       <point x="272" y="555"/>
       <point x="245" y="555" type="qcurve" smooth="yes"/>
