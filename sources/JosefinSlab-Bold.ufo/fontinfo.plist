@@ -12,6 +12,8 @@
     <integer>-250</integer>
     <key>familyName</key>
     <string>Josefin Slab</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -25,7 +27,7 @@
     <key>openTypeHeadLowestRecPPEM</key>
     <integer>9</integer>
     <key>openTypeHheaAscender</key>
-    <integer>932</integer>
+    <integer>750</integer>
     <key>openTypeHheaCaretOffset</key>
     <integer>0</integer>
     <key>openTypeHheaCaretSlopeRise</key>
@@ -92,7 +94,7 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>932</integer>
+    <integer>750</integer>
     <key>openTypeOS2TypoDescender</key>
     <integer>-250</integer>
     <key>openTypeOS2TypoLineGap</key>
@@ -115,8 +117,20 @@
     <integer>932</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>250</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptIsFixedPitch</key>
     <false/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-75</integer>
     <key>postscriptUnderlineThickness</key>
