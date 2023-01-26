@@ -5,3 +5,6 @@ Josefin Slab was the first typeface–at least in my mind–I designed! But I de
 I wanted to stick to the idea of Scandinavian style, so I put a lot of attention to the diacritics, especially to "æ" which has loops connecting in a continuous way, so the "e" slope was determined by this character.
 It also has some typewriter style attributes, because I've liked the Letter Gothic typeface since I was in high school, and that's why I decided to make a Slab version of Josefin Sans.
 
+# Fork
+
+This copy has been stripped down to test variable font compilation.
